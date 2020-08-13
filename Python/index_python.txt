@@ -1,0 +1,10 @@
+0_Specific_Scenarios
+1_Basics
+  -_pyBasics1.py
+    -__Example_1: ==Hello World==
+    -__Example_2: ==Importing Libraries==
+    -__Example_3: ==Try - Catch code blocks==
+2_Mathematics
+3_IO
+4_Analytics
+5_Multiprocessing
