@@ -1,0 +1,5 @@
+Hello World
+nt
+<module 'ntpath' from 'D:\\Users\\pablolepz\\Anaconda3\\lib\\ntpath.py'>
+1.0
+Numpy was imported
